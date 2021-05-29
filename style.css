@@ -51,7 +51,7 @@ p {
     font-size: 16px;
 }
 
-main {
+figure {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -70,7 +70,7 @@ main {
     margin-left: 25px;
 }
 
-section {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
